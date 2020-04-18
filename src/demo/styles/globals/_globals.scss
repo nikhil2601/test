@@ -1,0 +1,20 @@
+/**
+ * Global Styles that will be loaded without css-modules
+ */
+
+/* Import SASS Variables */
+@import '~demo/styles/_variables.scss';
+/* Import other global styles */
+@import 'tableStyles.scss';
+
+pre {
+  background-color: #f5f5f5;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  display: block;
+  font-size: 13px;
+  margin: 0 0 10px;
+  padding: 9.5px;
+  word-break: break-all;
+  word-wrap: break-word;
+}

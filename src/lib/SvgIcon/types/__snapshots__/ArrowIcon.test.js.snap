@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ArrowIcon /> should render correctly as Down Arrow 1`] = `
+<SvgIcon
+  color="inherit"
+  height="1rem"
+  margin={null}
+  opacity={null}
+  padding={null}
+  titleAccess={null}
+  viewBox="0 0 24 24"
+  width="1rem"
+>
+  <path
+    d="M11,4H13V16L18.5,10.5L19.92,11.92L12,19.84L4.08,11.92L5.5,10.5L11,16V4Z"
+  />
+</SvgIcon>
+`;
+
+exports[`<ArrowIcon /> should render correctly as Left Arrow 1`] = `
+<SvgIcon
+  color="inherit"
+  height="1rem"
+  margin={null}
+  opacity={null}
+  padding={null}
+  titleAccess={null}
+  viewBox="0 0 24 24"
+  width="1rem"
+>
+  <path
+    d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z"
+  />
+</SvgIcon>
+`;
+
+exports[`<ArrowIcon /> should render correctly as Right Arrow 1`] = `
+<SvgIcon
+  color="inherit"
+  height="1rem"
+  margin={null}
+  opacity={null}
+  padding={null}
+  titleAccess={null}
+  viewBox="0 0 24 24"
+  width="1rem"
+>
+  <path
+    d="M4,11V13H16L10.5,18.5L11.92,19.92L19.84,12L11.92,4.08L10.5,5.5L16,11H4Z"
+  />
+</SvgIcon>
+`;
+
+exports[`<ArrowIcon /> should render correctly as Up Arrow 1`] = `
+<SvgIcon
+  color="inherit"
+  height="1rem"
+  margin={null}
+  opacity={null}
+  padding={null}
+  titleAccess={null}
+  viewBox="0 0 24 24"
+  width="1rem"
+>
+  <path
+    d="M13,20H11V8L5.5,13.5L4.08,12.08L12,4.16L19.92,12.08L18.5,13.5L13,8V20Z"
+  />
+</SvgIcon>
+`;
+
+exports[`<ArrowIcon /> should render correctly by default 1`] = `
+<SvgIcon
+  color="inherit"
+  height="1rem"
+  margin={null}
+  opacity={null}
+  padding={null}
+  titleAccess={null}
+  viewBox="0 0 24 24"
+  width="1rem"
+>
+  <path
+    d="M13,20H11V8L5.5,13.5L4.08,12.08L12,4.16L19.92,12.08L18.5,13.5L13,8V20Z"
+  />
+</SvgIcon>
+`;

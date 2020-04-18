@@ -1,0 +1,39 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies #
+################
+/node_modules
+
+# testing #
+###########
+/.nyc_output
+/coverage
+
+# prod #
+########
+/components
+/esm
+/lib
+/demo
+/constants
+/utils
+/index.js
+
+# css #
+#######
+/src/**/*.css
+
+# misc #
+########
+.DS_Store
+.env.development.local
+.env.local
+.env.production.local
+.env.test.local
+
+# etc #
+#######
+*.log
+*.tgz
+.vscode
+.idea

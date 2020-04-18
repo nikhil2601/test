@@ -1,0 +1,88 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<List /> should render correctly 1`] = `
+<List
+  as={null}
+  backgroundColor="transparent"
+  borderRadius={null}
+  borderStyle="initial"
+  divider={false}
+  listStyle={null}
+  margin={null}
+  ordered={false}
+  padding={null}
+>
+  <List__ListStyled
+    as="ul"
+    backgroundColor="transparent"
+    borderRadius={null}
+    borderStyle="initial"
+    divider={false}
+    listStyle={null}
+    margin={null}
+    padding={null}
+  >
+    <StyledComponent
+      as="ul"
+      backgroundColor="transparent"
+      borderRadius={null}
+      borderStyle="initial"
+      divider={false}
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "List__ListStyled-sc-57ytho-0",
+            "isStatic": false,
+            "lastClassName": "kNKJzA",
+            "rules": Array [
+              "position:relative;",
+              [Function],
+              ";",
+              ".ListItem__ListItemStyled-uh66uc-0",
+              "{border-left:",
+              [Function],
+              ";border-right:",
+              [Function],
+              ";&:first-child{border-top-left-radius:",
+              [Function],
+              ";border-top-right-radius:",
+              [Function],
+              ";border-top:",
+              [Function],
+              ";}&:last-child{border-bottom-left-radius:",
+              [Function],
+              ";border-bottom-right-radius:",
+              [Function],
+              ";border-bottom:",
+              [Function],
+              ";}}",
+              [Function],
+              " ",
+              [Function],
+              ";",
+            ],
+          },
+          "displayName": "List__ListStyled",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "List__ListStyled-sc-57ytho-0",
+          "target": "ul",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      listStyle={null}
+      margin={null}
+      padding={null}
+    >
+      <ul
+        className="List__ListStyled-sc-57ytho-0 kNKJzA"
+      />
+    </StyledComponent>
+  </List__ListStyled>
+</List>
+`;

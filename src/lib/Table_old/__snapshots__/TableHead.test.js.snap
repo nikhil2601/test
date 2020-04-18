@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TableHead /> should render correctly 1`] = `
+<WithTableContext
+  schema={
+    Object {
+      "columns": Array [
+        Object {
+          "id": "id",
+          "title": "Identification Number",
+        },
+        Object {
+          "id": "companyName",
+          "title": "Company Name",
+        },
+      ],
+      "rows": Object {
+        "zebra": true,
+      },
+    }
+  }
+>
+  <TableHead
+    baseUrl=""
+    cellTypes={Object {}}
+    data={Array []}
+    handlers={Object {}}
+    oAuthToken=""
+    onSortChange={[Function]}
+    order=""
+    orderBy=""
+    schema={Object {}}
+    selectable={null}
+  />
+</WithTableContext>
+`;

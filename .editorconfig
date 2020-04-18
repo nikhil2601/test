@@ -1,0 +1,25 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+# every-file
+[*]
+charset = utf-8
+end_of_line = lf
+indent_size = 4
+indent_style = space
+insert_final_newline = true
+max_line_length = 100
+quote_type = single
+trim_trailing_whitespace = true
+
+# Markdown
+[*.{md,mdx}]
+max_line_length = off
+quote_type = auto
+trim_trailing_whitespace = false
+
+# JSON
+[*.json]
+quote_type = double

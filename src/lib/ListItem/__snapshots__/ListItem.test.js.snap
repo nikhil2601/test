@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ListItem /> should render correctly 1`] = `
+<ListItem
+  active={false}
+  backgroundColor={null}
+  borderColor="muted"
+  borderRadius="0"
+  borderWidth="0"
+  button={false}
+  color={null}
+  disabled={false}
+  divider={false}
+  margin="0"
+  padding={null}
+>
+  <ListItem__ListItemStyled
+    active={false}
+    as="li"
+    backgroundColor={null}
+    borderColor="muted"
+    borderRadius="0"
+    borderWidth="0"
+    button={false}
+    color={null}
+    disabled={false}
+    divider={false}
+    margin="0"
+    padding={null}
+  >
+    <StyledComponent
+      active={false}
+      as="li"
+      backgroundColor={null}
+      borderColor="muted"
+      borderRadius="0"
+      borderWidth="0"
+      button={false}
+      color={null}
+      disabled={false}
+      divider={false}
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "ListItem__ListItemStyled-uh66uc-0",
+            "isStatic": false,
+            "lastClassName": "ljTnbv",
+            "rules": Array [
+              "align-items:center;box-sizing:border-box;display:",
+              [Function],
+              ";justify-content:flex-start;position:relative;text-align:left;text-decoration:none;width:100%;transition:opacity 0.2s ease-in-out,background 0.2s ease-in-out,color 0.2s ease-in-out,border-color 0.2s ease-in-out;",
+              [Function],
+              ";",
+              [Function],
+              ";",
+            ],
+          },
+          "displayName": "ListItem__ListItemStyled",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "ListItem__ListItemStyled-uh66uc-0",
+          "target": "li",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      margin="0"
+      padding={null}
+    >
+      <li
+        className="ListItem__ListItemStyled-uh66uc-0 ljTnbv"
+        color={null}
+        disabled={false}
+      />
+    </StyledComponent>
+  </ListItem__ListItemStyled>
+</ListItem>
+`;

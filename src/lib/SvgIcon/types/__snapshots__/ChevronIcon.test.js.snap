@@ -1,0 +1,154 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ChevronIcon /> should render correctly as Double Down Chevron 1`] = `
+<SvgIcon
+  color="inherit"
+  height="1rem"
+  margin={null}
+  opacity={null}
+  padding={null}
+  titleAccess={null}
+  viewBox="0 0 24 24"
+  width="1rem"
+>
+  <path
+    d="M16.59,5.59L18,7L12,13L6,7L7.41,5.59L12,10.17L16.59,5.59M16.59,11.59L18,13L12,19L6,13L7.41,11.59L12,16.17L16.59,11.59Z"
+  />
+</SvgIcon>
+`;
+
+exports[`<ChevronIcon /> should render correctly as Double Left Chevron 1`] = `
+<SvgIcon
+  color="inherit"
+  height="1rem"
+  margin={null}
+  opacity={null}
+  padding={null}
+  titleAccess={null}
+  viewBox="0 0 24 24"
+  width="1rem"
+>
+  <path
+    d="M18.41,7.41L17,6L11,12L17,18L18.41,16.59L13.83,12L18.41,7.41M12.41,7.41L11,6L5,12L11,18L12.41,16.59L7.83,12L12.41,7.41Z"
+  />
+</SvgIcon>
+`;
+
+exports[`<ChevronIcon /> should render correctly as Double Right Chevron 1`] = `
+<SvgIcon
+  color="inherit"
+  height="1rem"
+  margin={null}
+  opacity={null}
+  padding={null}
+  titleAccess={null}
+  viewBox="0 0 24 24"
+  width="1rem"
+>
+  <path
+    d="M5.59,7.41L7,6L13,12L7,18L5.59,16.59L10.17,12L5.59,7.41M11.59,7.41L13,6L19,12L13,18L11.59,16.59L16.17,12L11.59,7.41Z"
+  />
+</SvgIcon>
+`;
+
+exports[`<ChevronIcon /> should render correctly as Double Up Chevron 1`] = `
+<SvgIcon
+  color="inherit"
+  height="1rem"
+  margin={null}
+  opacity={null}
+  padding={null}
+  titleAccess={null}
+  viewBox="0 0 24 24"
+  width="1rem"
+>
+  <path
+    d="M7.41,18.41L6,17L12,11L18,17L16.59,18.41L12,13.83L7.41,18.41M7.41,12.41L6,11L12,5L18,11L16.59,12.41L12,7.83L7.41,12.41Z"
+  />
+</SvgIcon>
+`;
+
+exports[`<ChevronIcon /> should render correctly as Down Chevron 1`] = `
+<SvgIcon
+  color="inherit"
+  height="1rem"
+  margin={null}
+  opacity={null}
+  padding={null}
+  titleAccess={null}
+  viewBox="0 0 24 24"
+  width="1rem"
+>
+  <path
+    d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"
+  />
+</SvgIcon>
+`;
+
+exports[`<ChevronIcon /> should render correctly as Left Chevron 1`] = `
+<SvgIcon
+  color="inherit"
+  height="1rem"
+  margin={null}
+  opacity={null}
+  padding={null}
+  titleAccess={null}
+  viewBox="0 0 24 24"
+  width="1rem"
+>
+  <path
+    d="M15.41,16.58L10.83,12L15.41,7.41L14,6L8,12L14,18L15.41,16.58Z"
+  />
+</SvgIcon>
+`;
+
+exports[`<ChevronIcon /> should render correctly as Right Chevron 1`] = `
+<SvgIcon
+  color="inherit"
+  height="1rem"
+  margin={null}
+  opacity={null}
+  padding={null}
+  titleAccess={null}
+  viewBox="0 0 24 24"
+  width="1rem"
+>
+  <path
+    d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z"
+  />
+</SvgIcon>
+`;
+
+exports[`<ChevronIcon /> should render correctly as Up Chevron 1`] = `
+<SvgIcon
+  color="inherit"
+  height="1rem"
+  margin={null}
+  opacity={null}
+  padding={null}
+  titleAccess={null}
+  viewBox="0 0 24 24"
+  width="1rem"
+>
+  <path
+    d="M7.41,15.41L12,10.83L16.59,15.41L18,14L12,8L6,14L7.41,15.41Z"
+  />
+</SvgIcon>
+`;
+
+exports[`<ChevronIcon /> should render correctly by default 1`] = `
+<SvgIcon
+  color="inherit"
+  height="1rem"
+  margin={null}
+  opacity={null}
+  padding={null}
+  titleAccess={null}
+  viewBox="0 0 24 24"
+  width="1rem"
+>
+  <path
+    d="M7.41,15.41L12,10.83L16.59,15.41L18,14L12,8L6,14L7.41,15.41Z"
+  />
+</SvgIcon>
+`;

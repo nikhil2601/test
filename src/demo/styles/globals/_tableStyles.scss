@@ -1,0 +1,20 @@
+.red-table-cell {
+  background-color: red;
+  color: #fff;
+}
+
+.green-table-cell {
+  background-color: green;
+  color: yellow;
+}
+
+.blue-table-row {
+  background-color: blue !important;
+  color: white !important;
+}
+
+.highlight-table-row {
+  background-color: darken(#f5f8fa, 70) !important;
+  // background-color: rgba(#1a1b1f, 0.5) !important;
+  color: #fff !important;
+}

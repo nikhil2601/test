@@ -1,0 +1,20 @@
+# See AWS Build Specification Reference @ https://docs.aws.amazon.com/codebuild/latest/userguide/build-spec-ref.html
+version: 0.2
+
+# NOTE: This buildspec.yml file gets run on a GitHub-Hookshot for each new pull-request
+# that gets made in `pep-comp` and any additional commits to that pull-request.
+
+phases:
+    install:
+        commands:
+            - echo Starting the pep-comp build-check...
+            - echo Entered the install phase...
+            - npm install
+    build:
+        commands:
+            - echo Entered the build phase...
+            - echo Building pep-comp library + components...
+            - npm run build
+    post_build:
+        commands:
+            - echo Successfully completed build on `date`

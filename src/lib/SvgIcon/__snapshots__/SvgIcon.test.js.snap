@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SvgIcon /> should render correctly 1`] = `
+<StyledComponent
+  color="inherit"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "SvgIcon-clbnd4-0",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          ";",
+          [Function],
+          ";",
+          [Function],
+        ],
+      },
+      "defaultProps": Object {
+        "children": null,
+        "color": "inherit",
+        "height": "1rem",
+        "margin": null,
+        "opacity": null,
+        "padding": null,
+        "titleAccess": null,
+        "viewBox": "0 0 24 24",
+        "width": "1rem",
+      },
+      "displayName": "SvgIcon",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "children": [Function],
+        "color": [Function],
+        "height": [Function],
+        "margin": [Function],
+        "opacity": [Function],
+        "padding": [Function],
+        "titleAccess": [Function],
+        "viewBox": [Function],
+        "width": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "SvgIcon-clbnd4-0",
+      "target": "svg",
+      "toString": [Function],
+      "types": Object {
+        "alert": [Function],
+        "arrow": [Function],
+        "checkbox": [Function],
+        "checkboxEmpty": [Function],
+        "checkboxIndeterminate": [Function],
+        "chevron": [Function],
+        "clear": [Function],
+        "email": [Function],
+        "eye": [Function],
+        "gear": [Function],
+        "grid": [Function],
+        "key": [Function],
+        "menu": [Function],
+        "phone": [Function],
+        "search": [Function],
+        "trash": [Function],
+      },
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  height="1rem"
+  margin={null}
+  opacity={null}
+  padding={null}
+  titleAccess={null}
+  viewBox="0 0 24 24"
+  width="1rem"
+/>
+`;

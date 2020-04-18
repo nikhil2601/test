@@ -1,0 +1,20 @@
+module.exports = {
+    arrowParens: 'avoid',
+    bracketSpacing: true,
+    endOfLine: 'lf',
+    htmlWhitespaceSensitivity: 'css',
+    insertPragma: false,
+    jsxBracketSameLine: false,
+    parser: 'babylon',
+    jsxSingleQuote: false,
+    parser: 'babel-flow',
+    printWidth: 100,
+    proseWrap: 'preserve',
+    quoteProps: 'as-needed',
+    requirePragma: false,
+    semi: true,
+    singleQuote: true,
+    tabWidth: 4,
+    trailingComma: 'es5',
+    useTabs: false
+};
