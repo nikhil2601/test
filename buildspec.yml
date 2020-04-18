@@ -17,6 +17,3 @@ phases:
             - echo Packing the build...
             - npm pack
             - echo Build completed on `date`
-artifacts:
-    files:
-        - pepComp-1.0.0.tgz
